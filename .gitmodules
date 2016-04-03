@@ -1,0 +1,3 @@
+[submodule "ws4py"]
+	path = ws4py
+	url = https://github.com/Lawouach/WebSocket-for-Python.git
